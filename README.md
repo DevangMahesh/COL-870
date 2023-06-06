@@ -1,2 +1,8 @@
 # COL-870
-Course Projects and Assignments 
+Graduate Course offered by IIT Delhi during Spring 2021
+
+Special Topics in Machine Learning - Deep Learning
+
+Course Webpage :- https://www.cse.iitd.ac.in/~parags/teaching/2021/col870/
+
+Co-contributor : Ankit Garg, https://www.linkedin.com/in/ankitgarg2123/
